@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  margin: 0 auto;
+  width: 70%;
+  height: 300px;
+}
+
+.h1 {
+  color: blue
+}
+
+.body text{
+  text-decoration: double;
+  text-decoration: bold;
+
+}
+
+.body a {
+  text-decoration: none;
+}
+
+#link {
+  text-decoration: none;
+  color: grey
+}
